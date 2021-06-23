@@ -1,0 +1,78 @@
+.header{
+    width: 100%;
+    max-width: 1250px;
+    margin: auto;
+    position: relative;
+}
+.header .navbar{
+    max-width: 1250px;
+    width: 100%;
+    margin: 20px;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+}
+.navbar .logo{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar .logo img{
+    width: 50px;
+}
+.navbar .navlinks{
+    margin: 0px;
+    padding: 0%;
+}
+.navbar .navlinks ul{
+    list-style: none;
+    margin: 0%;
+    padding: 0;
+    display: flex;
+}
+.navbar .navlinks ul li{
+    margin: 0px;
+    padding: 20px;
+    font-size: 16px;
+    color: #999;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    cursor: pointer;
+}
+.navbar .navlinks ul li.active{
+    color: #e8e8e8;
+}
+.navbar .navlinks ul li:hover{
+    color: #e8e8e8;
+}
+.dropdown-toggle.btn.btn-primary::after{
+    display: none;
+}
+.mobileLinks{
+    background: #131313;
+    margin: 0%;
+    padding: 0%;
+}
+.mobileLinks .mobileLink{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    padding: 20px;
+}
+.mobileMenu{
+    display: none;
+}
+@media only screen and (max-width: 800px) {
+    .mobileMenu{
+        display: block;
+    }
+    .navbar .navlinks{
+        display: none;
+    }
+
+    .btn.focus, .btn:focus{
+        box-shadow: none;
+    }
+}
