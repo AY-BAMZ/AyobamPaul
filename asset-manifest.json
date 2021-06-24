@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/AY-BAMZ/AyobamPaul.git/static/css/main.0298dddd.chunk.css",
-    "main.js": "/AY-BAMZ/AyobamPaul.git/static/js/main.d895c58d.chunk.js",
-    "main.js.map": "/AY-BAMZ/AyobamPaul.git/static/js/main.d895c58d.chunk.js.map",
-    "runtime-main.js": "/AY-BAMZ/AyobamPaul.git/static/js/runtime-main.be1b54f7.js",
-    "runtime-main.js.map": "/AY-BAMZ/AyobamPaul.git/static/js/runtime-main.be1b54f7.js.map",
-    "static/css/2.4c97ca4f.chunk.css": "/AY-BAMZ/AyobamPaul.git/static/css/2.4c97ca4f.chunk.css",
-    "static/js/2.409a4f05.chunk.js": "/AY-BAMZ/AyobamPaul.git/static/js/2.409a4f05.chunk.js",
-    "static/js/2.409a4f05.chunk.js.map": "/AY-BAMZ/AyobamPaul.git/static/js/2.409a4f05.chunk.js.map",
-    "static/js/3.6814700d.chunk.js": "/AY-BAMZ/AyobamPaul.git/static/js/3.6814700d.chunk.js",
-    "static/js/3.6814700d.chunk.js.map": "/AY-BAMZ/AyobamPaul.git/static/js/3.6814700d.chunk.js.map",
-    "index.html": "/AY-BAMZ/AyobamPaul.git/index.html",
-    "static/css/2.4c97ca4f.chunk.css.map": "/AY-BAMZ/AyobamPaul.git/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.0298dddd.chunk.css.map": "/AY-BAMZ/AyobamPaul.git/static/css/main.0298dddd.chunk.css.map",
-    "static/js/2.409a4f05.chunk.js.LICENSE.txt": "/AY-BAMZ/AyobamPaul.git/static/js/2.409a4f05.chunk.js.LICENSE.txt",
-    "static/media/logo.778addbc.svg": "/AY-BAMZ/AyobamPaul.git/static/media/logo.778addbc.svg"
+    "main.css": "/AyobamPaul/static/css/main.43022626.chunk.css",
+    "main.js": "/AyobamPaul/static/js/main.d895c58d.chunk.js",
+    "main.js.map": "/AyobamPaul/static/js/main.d895c58d.chunk.js.map",
+    "runtime-main.js": "/AyobamPaul/static/js/runtime-main.7c6a5f0f.js",
+    "runtime-main.js.map": "/AyobamPaul/static/js/runtime-main.7c6a5f0f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/AyobamPaul/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.409a4f05.chunk.js": "/AyobamPaul/static/js/2.409a4f05.chunk.js",
+    "static/js/2.409a4f05.chunk.js.map": "/AyobamPaul/static/js/2.409a4f05.chunk.js.map",
+    "static/js/3.6814700d.chunk.js": "/AyobamPaul/static/js/3.6814700d.chunk.js",
+    "static/js/3.6814700d.chunk.js.map": "/AyobamPaul/static/js/3.6814700d.chunk.js.map",
+    "index.html": "/AyobamPaul/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/AyobamPaul/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.43022626.chunk.css.map": "/AyobamPaul/static/css/main.43022626.chunk.css.map",
+    "static/js/2.409a4f05.chunk.js.LICENSE.txt": "/AyobamPaul/static/js/2.409a4f05.chunk.js.LICENSE.txt",
+    "static/media/logo.778addbc.svg": "/AyobamPaul/static/media/logo.778addbc.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.be1b54f7.js",
+    "static/js/runtime-main.7c6a5f0f.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.409a4f05.chunk.js",
-    "static/css/main.0298dddd.chunk.css",
+    "static/css/main.43022626.chunk.css",
     "static/js/main.d895c58d.chunk.js"
   ]
 }
